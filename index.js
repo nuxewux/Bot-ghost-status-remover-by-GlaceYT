@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🔗 Use Code Beta24","🔗 /phone | Beta24"];
+const statusMessages = ["BEST BOT EVER"];
 
 
 let currentIndex = 0;
